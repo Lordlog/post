@@ -11,7 +11,7 @@
 | --- | --- |
 | Maksimum | 4 |
 | Nilai | 2 |
-| Review | Jawaban tepat, tapi kurang lengkap. Bagian OOP adalah encapsulation, inheritance, dan polymorphism  |
+| Review | Jawaban tepat, tapi kurang lengkap. Bagian OOP adalah encapsulation, inheritance, dan polymorphism tidak diterangkan.  |
 
 #### Di java 8 ada dua komponen untuk implementasi abstraksi lebih baik, yaitu stream dan lambda. Ceritakan apa itu. Pada saat apakah kita membutuhkan stream atau lambda.
 
