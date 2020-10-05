@@ -111,7 +111,7 @@ Buat matrix class yang mempunya behavior untuk perkalian matrix. Coba untuk meny
 | --- | --- |
 | Maksimum | 3 |
 | Nilai | 0 |
-| Review | Pembuatan public class salah sehingga program tidak dapat dijalankan, dan jawaban atas kelas tidak tepat |
+| Review | Pembuatan public class salah, dan jawaban atas kelas tidak tepat |
 
 #### Apa itu unit testing. Bedakah dengan integration testing? Apa bedanya?
 
